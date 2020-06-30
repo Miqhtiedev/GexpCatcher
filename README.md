@@ -16,7 +16,7 @@ Displays guild xp from the last 7 days of all members in your hypixel guild.
 
 6: Data for your guild will be listed in output.txt in this format
 
-Player1: {xp-ammount}
-Player2: {xp-ammount}
-Player3: {xp-ammount}
+Player1: {xp-amount}
+Player2: {xp-amount}
+Player3: {xp-amount}
 etc.
